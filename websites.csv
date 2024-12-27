@@ -1,0 +1,4 @@
+﻿name,url,parser
+Yahoo Finance,https://finance.yahoo.com/quote/AAPL/,parse_yahoo_finance
+Weather.com,https://weather.com/de-DE/wetter/heute/l/35155b8ae79a58a387cf3e2ff118ed6ab7f7a69923e8d8f687f1f3c02bb6bf1b,parse_weather_com
+WHO Dashboard,https://data.who.int/dashboards/covid19/cases,parse_who_dashboard
